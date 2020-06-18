@@ -1,0 +1,9 @@
+Package: com.crkatri.dontkilltermius
+Name: Don't Kill Termius
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Cameron Katri
+Author: Cameron Katri
+Section: Tweaks
